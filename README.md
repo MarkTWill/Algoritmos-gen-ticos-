@@ -10,7 +10,7 @@ Para ello se implementan tres casos prácticos:
 
 ---
 
-## 📖 Contexto
+## Contexto
 Los **Algoritmos Genéticos** son técnicas de optimización inspiradas en la evolución biológica.  
 Su ciclo básico incluye:  
 
@@ -24,7 +24,7 @@ Su ciclo básico incluye:
 
 ---
 
-## 📂 Estructura del Repositorio
+##  Estructura del Repositorio
 
 ```bash
 ├── algoritmo de seleccion/
