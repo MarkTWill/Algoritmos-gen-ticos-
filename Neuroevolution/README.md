@@ -11,7 +11,7 @@ El objetivo es **automatizar la búsqueda de la mejor arquitectura de red neuron
 
 ---
 
-## ⚙ Funcionamiento del Algoritmo Genético
+## Funcionamiento del Algoritmo Genético
 
 1. **Representación de cromosomas**  
    Cada individuo de la población representa una red neuronal definida por:  
