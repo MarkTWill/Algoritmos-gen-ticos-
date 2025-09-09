@@ -27,11 +27,14 @@ Su ciclo básico incluye:
 ## 📂 Estructura del Repositorio
 
 ```bash
-├── feature_selection/
-│   └── main.py
-├── hyperparameter_optimization/
-│   └── AGparaHyperparameterOptimization.ipynb
+├── algoritmo de seleccion/
+    └── main.py
+    └── README.md
+├── Hyperparameter Optimization/
+    └── AGparaHyperparameterOptimization.ipynb
+    └── README.md
 ├── neuroevolution/
-│   └── nNeuroevolution.py
+    └── nNeuroevolution.py
+    └── README.md
 ├── resumen.pdf
 └── README.md
