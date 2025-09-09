@@ -49,9 +49,3 @@ El objetivo es **automatizar la búsqueda de la mejor arquitectura de red neuron
 ---
 
 
-## 🚀 Ejecución
-
-### 1. Clonar el repositorio
-```bash
-git clone https://github.com/tuusuario/neuroevolution-iris.git
-cd neuroevolution-iris
