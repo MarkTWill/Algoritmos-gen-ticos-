@@ -28,10 +28,10 @@ Su ciclo básico incluye:
 
 ```bash
 ├── feature_selection/
-│   └── feature_selection_ga.ipynb
+│   └── main.py
 ├── hyperparameter_optimization/
-│   └── hyperparam_ga.ipynb
+│   └── AGparaHyperparameterOptimization.ipynb
 ├── neuroevolution/
-│   └── neuroevolution_ga.ipynb
+│   └── nNeuroevolution.py
 ├── resumen.pdf
 └── README.md
