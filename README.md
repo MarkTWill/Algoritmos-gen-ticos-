@@ -1,10 +1,26 @@
-# Actividad 02 - Algoritmos Genéticos en Aprendizaje de Máquina
+# Algoritmos Genéticos en Aprendizaje de Máquina
 
-## 🎯 Objetivo
-Comprender la aplicación de los **Algoritmos Genéticos (AG)** en el contexto del **Aprendizaje de Máquina**, mostrando cómo se pueden usar para:
-1. Selección de características (Feature Selection).  
-2. Optimización de hiperparámetros (Hyperparameter Optimization).  
-3. Evolución de arquitecturas de redes neuronales (Neuroevolution).  
+##  Objetivo
+La presente actividad tiene como finalidad **comprender y aplicar los Algoritmos Genéticos (AG)** dentro del contexto del **aprendizaje de máquina (ML)**.  
+Para ello se implementan tres casos prácticos:
+
+1. **Feature Selection** → Uso de AG para seleccionar las características más relevantes de un dataset.  
+2. **Hyperparameter Optimization** → Uso de AG para encontrar los mejores hiperparámetros de un modelo de ML.  
+3. **Neuroevolution** → Uso de AG para evolucionar la arquitectura de una red neuronal.  
+
+---
+
+## 📖 Contexto
+Los **Algoritmos Genéticos** son técnicas de optimización inspiradas en la evolución biológica.  
+Su ciclo básico incluye:  
+
+1. **Representación de la población (cromosomas):** posibles soluciones.  
+2. **Inicialización:** creación aleatoria de la población inicial.  
+3. **Función de aptitud (fitness):** mide qué tan buena es cada solución.  
+4. **Selección:** elegir los mejores individuos para reproducirse.  
+5. **Cruzamiento (crossover):** combinar individuos para crear descendencia.  
+6. **Mutación:** introducir cambios aleatorios para mantener diversidad.  
+7. **Terminación:** se detiene al alcanzar un número de generaciones o una aptitud óptima.  
 
 ---
 
@@ -12,13 +28,10 @@ Comprender la aplicación de los **Algoritmos Genéticos (AG)** en el contexto d
 
 ```bash
 ├── feature_selection/
-│   ├── feature_selection_ga.ipynb
-│   └── README.md
+│   └── feature_selection_ga.ipynb
 ├── hyperparameter_optimization/
-│   ├── hyperparam_ga.ipynb
-│   └── README.md
+│   └── hyperparam_ga.ipynb
 ├── neuroevolution/
-│   ├── neuroevolution_ga.ipynb
-│   └── README.md
+│   └── neuroevolution_ga.ipynb
 ├── resumen.pdf
-└── README.md   <-- este archivo
+└── README.md
