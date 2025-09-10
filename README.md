@@ -34,7 +34,7 @@ Su ciclo básico incluye:
     └── AGparaHyperparameterOptimization.ipynb
     └── README.md
 ├── neuroevolution/
-    └── nNeuroevolution.py
+    └── Neuroevolution.py
     └── README.md
-├── resumen.pdf
+├── algoritmos genéticos.pdf
 └── README.md
